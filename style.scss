@@ -1,0 +1,92 @@
+$font-family:"Yu Gothic";
+
+body{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+header{
+    height: 16vh;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.3);
+    .block{
+        width: 98px;
+        height: 98px;
+        background-color: rgba(71, 84, 103, 1);
+        position: absolute;
+        top: 50px;
+        left: 50px;
+    }
+    ul{
+        margin: 0%;
+    }
+    li{
+        font-size: 16px;
+        color:rgb(255, 255, 255);
+        list-style: none;
+        float: right;
+        line-height: 263px;
+    }
+    a{
+        color: rgb(0, 0, 0);
+        font-family: $font-family;
+        display: block;
+        padding: 0 30px;
+        :hover{
+            opacity: 0.7;
+        }
+    }
+    .fa-mobile{
+        position: absolute;
+        top: 124px;
+        right: 430px;
+    }
+}
+picture{
+    margin: 0;
+    .inner{
+        height: 50vh;
+    }
+}
+
+footer{
+    width: 100%;
+    height: 36vh;
+    display: flex;
+    position: absolute;
+    justify-content: space-around;
+    margin: 7rem 0;
+
+    .footerBlock1{
+        position: relative;
+        width: 278px;
+        height: 161px;
+        background-color: rgba(71, 84, 103, 1);
+    }
+    .footerBlock2{
+        position: relative;
+        width: 278px;
+        height: 161px;
+        background-color: rgba(71, 84, 103, 1);
+    }
+    .footerBlock3{
+        position: relative;
+        width: 278px;
+        height: 161px;
+        background-color: rgba(71, 84, 103, 1);
+    }
+    a{
+        color: rgb(255, 255, 255, 1);
+        font-family: $font-family;
+        display: block;
+        :hover{
+            opacity: 0.7;
+        }
+    }
+    span{
+        position: relative;
+        top: 65px;
+        left: 80px;
+    }
+}
