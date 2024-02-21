@@ -1,9 +1,9 @@
-# 2023.11.08
+# 2023.11.08 (房地產畫面排版) (不動産ページ練習)
 
-## 網址
+## 網址 (ウェブ)
 https://peterjackson0107.github.io/20231108-realEstateManagementSystem/
 
-## 專案技術
+## 專案技術 (プログラミング言語)
 - HTML
 - CSS
 - SCSS
@@ -20,7 +20,6 @@ Bootstrap網址：https://bootstrap5.hexschool.com/docs/5.1/getting-started/intr
 ```
 
 ## 學習歷程進度
-
 * 練習刻板房地產主頁
 * 包含註冊登入
 * 註冊登入不包含功能
@@ -37,12 +36,12 @@ Bootstrap網址：https://bootstrap5.hexschool.com/docs/5.1/getting-started/intr
 
 * 可以先用**Figma**先做大致切版
 
-## 參考版面
+## 參考版面 (参考資料)
 ![image](https://github.com/peterjackson0107/20231108-realEstateManagementSystem/assets/151004314/e2b00b24-1c0c-4745-a5ac-6777e3609c4b)
 ![image](https://github.com/peterjackson0107/20231108-realEstateManagementSystem/assets/151004314/5b061f31-36dc-4983-a11a-6d6ebbd52815)
 ![image](https://github.com/peterjackson0107/20231108-realEstateManagementSystem/assets/151004314/bf5bd91a-283f-4349-b1ac-73ed1667b29f)
 
-## 畫面
+## 畫面 (画面)
 * むずい
 
 ![image](https://github.com/peterjackson0107/20231108-realEstateManagementSystem/assets/151004314/cadcdb7d-ea79-43ba-b053-305313bf0ac5)
